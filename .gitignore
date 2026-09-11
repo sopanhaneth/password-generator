@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# AI / development tools
+.qodo/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
